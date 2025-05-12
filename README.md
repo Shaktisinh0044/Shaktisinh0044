@@ -1,5 +1,5 @@
 Hy! Im Shaktisinh Parmar.
-👋 Hi there! I'm Shakti – passionate about full-stack web development</br>
+</br>
 💻 Frontend & Backend Developer | JavaScript & CSS enthusiast</br>
 📍 Ahmedabad, India 🏙️</br>
 🎓 BCA student, learning something new every day</br>
