@@ -1,5 +1,15 @@
-Hy! Im Shaktisinh Parmar.
-</br>
+<h1 align="center">Hi , I'm Shaktisinh Parmar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Fullstack+Developer;Computer+Science+Student;Competitive+Programmer;GDSC+Design+Lead;Expert+Website+Designer;Part-Time+Freelancer;Always+learning+new+things!"></a>
+</p>
+
+
+	
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+
+<picture> <img align="right" src="#" width = 250px></picture>
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+
 💻 Frontend & Backend Developer | JavaScript & CSS enthusiast</br>
 📍 Ahmedabad, India 🏙️</br>
 🎓 BCA student, learning something new every day</br>
@@ -22,10 +32,15 @@ LinkedIn :- https://www.linkedin.com/in/shaktisinh-parmar-44a1182b2/
 ![](https://nirzak-streak-stats.vercel.app/?user=shaktisinh0044&theme=neon&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shaktisinh0044&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=shaktisinh0044&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=shaktisinh0044&icon=6&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+## 🐍 A Snake Eating my Contributions Graph 😭
+	
+<p align = "center">
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>
