@@ -9,12 +9,13 @@
 <picture> <img align="right" src="#" width = 250px></picture>
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
-💻 Frontend & Backend Developer | JavaScript & CSS enthusiast</br>
-📍 Ahmedabad, India 🏙️</br>
-🎓 BCA student, learning something new every day</br>
-🚀 Currently leveling up my skills in JavaScript & animations</br>
-🧠 Problem solver & code debugger by day and night</br>
-✨ Let's build something amazing together!</br>
+💻 Full-Stack | Exploring Frontend & Backend Development<br>
+📍 From Ahmedabad, India 🏙️<br>
+🎓 Final-year BCA Student | Building real-world projects<br>
+⚡ Currently diving deep into JavaScript, CSS animations & Backend with Node.js/.NET<br>
+🧩 Passionate about problem-solving, debugging & clean code<br>
+🚀 Exploring complete tech stacks for web development<br>
+✨ Always curious, always learning — let’s code something impactful!<br>
 </br>
 LinkedIn :- https://www.linkedin.com/in/shaktisinh-parmar-44a1182b2/
 
