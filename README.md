@@ -17,7 +17,8 @@
 🚀 Exploring complete tech stacks for web development<br>
 ✨ Always curious, always learning — let’s code something impactful!<br>
 </br>
-LinkedIn :- https://www.linkedin.com/in/shaktisinh-parmar-44a1182b2/
+LinkedIn :- https://www.linkedin.com/in/shaktisinh-parmar-44a1182b2/ <br>
+Portfolio: https://shaktisinh.netlify.app/
 
 
 
